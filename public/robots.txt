@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# General information only. Confirm with a registered tax agent and solicitor.
+# Rules include 2026–28 announced reforms that may change.

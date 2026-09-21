@@ -1,0 +1,17 @@
+node_modules/
+.project_id
+.github_repo
+.env
+.env.*
+.output/
+.vercel/
+.wrangler/
+.tanstack/
+.nitro/
+dist/
+coverage/
+*.log
+.DS_Store
+artifacts/
+attachments/
+screenshots/

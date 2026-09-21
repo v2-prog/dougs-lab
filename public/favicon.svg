@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Doug's Lab">
+  <rect width="32" height="32" fill="#F6F3EC"/>
+  <path fill="#2F5D4F" d="M16 3.2C22.6 8.6 25.2 15.2 21.1 21.6 19.1 24.8 16.8 26.2 16 26.6 15.2 26.2 12.9 24.8 10.9 21.6 6.8 15.2 9.4 8.6 16 3.2Z"/>
+  <rect x="6" y="27.5" width="20" height="1.5" fill="#2F5D4F"/>
+</svg>
